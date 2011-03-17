@@ -1,0 +1,18 @@
+{% extends "skeleton/_root.html" %}
+
+{% block all %}
+
+{%spaceless%}
+
+{%ifnotequal node page.node %}
+    <li class="li-gal">
+        {% if node.has_listing %}<a href="{{node.listing_url}}">{% endif %}
+        <img class="img-li-gal" src="{{site.url}}/media/galerias/{{node.name}}/1-thumb.jpg" alt="" />
+        <h2>{{node.name|unslugify}}</h2>
+        {% if node.has_listing %}</a>{% endif %}
+    </li>
+{%endifnotequal%}
+
+{%endspaceless%}
+
+{% endblock %}

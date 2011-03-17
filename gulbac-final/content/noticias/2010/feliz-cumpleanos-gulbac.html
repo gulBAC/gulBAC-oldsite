@@ -1,0 +1,26 @@
+{% extends "_post.html" %}
+
+{%load webdesign %}
+
+{%hyde
+    title: Feliz cumpleaños gulBAC!
+    desc: El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
+    created: 2010-11-18 00:00:01
+%}
+
+{% block article %}
+
+{% article %}
+
+{% excerpt %}
+
+![Torta]({{site.url}}/media/img/cumple.png)El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
+Para festejarlo, como no podia ser de otra manera, estamos hackeando el sitio, le pegamos no solo una lavada de cara si no que tambien un cambio de motor para hacer mas funcional y accesible el sitio para todos.
+Año a año cada vez más gente se une al grupo de usuarios para colaborar en eventos, ayudar a otros, aprender o simplemente socializar con gente que utiliza o desarrolla Software Libre.
+Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza para seguir creciendo y cumpliendo nuestros objetivos.
+
+{% endexcerpt %}
+
+{% endarticle %}
+
+{% endblock %}

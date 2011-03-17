@@ -1,0 +1,10 @@
+{% extends "skeleton/_root.html" %}
+
+{% block all %}
+
+<div class="context-nav">
+    <a {%if page.next%}href="{{page.next.url}}"{%endif%}>< Anterior </a> &nbsp;&nbsp;
+    <a {%if page.prev%}href="{{page.prev.url}}"{%endif%}>Siguiente ></a>
+</div>
+
+{% endblock %}

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+a=0
+for k in $(ls *.jpg)
+	 a=$(expr $a + 1)
+	do convert $k -resize 800 -quality 80 $a
+done

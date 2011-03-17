@@ -1,0 +1,33 @@
+{% extends "_staticpage.html" %}
+
+{%hyde
+    title: "Contáctese con nosotros"
+%}
+
+{% block article %}
+
+<form action="mail.php" id="form" method="post"> 
+	<p> 
+        <label>Nombre</label> 
+        <input id="name" name="nombre" tabindex="1" type="text" /> 
+    </p> 
+	<p> 
+        <label>Apellido</label> 
+        <input id="apellido" name="apellido" tabindex="2" type="text" /> 
+    </p> 
+	<p> 
+        <label>Email</label> 
+        <input id="mailto" name="mailto" tabindex="3" type="text" /> 
+    </p> 
+    <p> 
+        <input id="captcha" name="captcha" tabindex="13" type="text" value="" /> 
+    </p> 
+	<p> 
+        <label>Mensaje</label> 
+	    <textarea cols="60" id="mensaje" name="mensaje" rows="12" tabindex="4"> </textarea> 
+    </p> 
+	<br /> 
+	<input name="Enviar" type="submit" value="Enviar" /> 
+</form>
+
+{% endblock %}

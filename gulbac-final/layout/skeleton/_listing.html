@@ -1,0 +1,17 @@
+{% extends "skeleton/_body.html"%}
+
+{% block content_header %}
+{% endblock %}
+
+{% block content_body %}
+<h1>Archivo de noticias de gulBAC</h1>
+
+<div class="page-listing">
+	{% for node in page.node.walk %}
+		{% include "skeleton/_innerlisting.html" %}
+	{% endfor %}
+</div>
+
+<div class="clear"></div>
+
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends "skeleton/_body.html"%}
+
+{% block content_header %}
+{% endblock %}
+
+{% block content_body %}
+<h1>Galería de imágenes</h1>
+
+<div class="page-listing">
+    <ul style="margin-left: 4px;">
+	{% for node in page.node.walk %}
+		{% include "skeleton/img-innerlisting.html" %}
+	{% endfor %}
+    </ul>
+</div>
+
+<div class="clear"></div>
+
+{% endblock %}

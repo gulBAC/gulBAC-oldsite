@@ -1,0 +1,18 @@
+#!/bin/sh
+
+a=1
+
+rename "y/A-Z/a-z/" *
+mkdir tmp
+
+for k in $(ls *.jpg);
+  do convert $k -resize 800 -quality 80 tmp/$a.jpg;
+  ((a=$a+1));
+done;
+
+rm *.jpg
+mv tmp/* .
+rmdir tmp
+
+exit;
+
