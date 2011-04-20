@@ -92,10 +92,10 @@
             <ul> 
               <li><a href="{{site.url}}/"><img src="{{site.url}}/media/img/inicio.png" alt="" /> Inicio</a></li> 
               <li><a href="http://wiki.gulbac.org.ar/"><img src="{{site.url}}/media/img/wiki.png" alt="" /> Wiki</a></li> 
-              <li><a href="http://wiki.gulbac.org.ar/index.php/Proyecto_Nodos"><img src="{{site.url}}/media/img/nodos.png" alt="" /> Nodos</a></li> 
+              <li><a href="http://wiki.gulbac.org.ar/index.php/Nodos"><img src="{{site.url}}/media/img/nodos.png" alt="" /> Nodos</a></li> 
               <li><a href="http://wiki.gulbac.org.ar/index.php/Gu%C3%ADas"><img src="{{site.url}}/media/img/guias.png" alt="" /> Guias</a></li> 
               <li><a href="{{site.url}}/galeria"><img src="{{site.url}}/media/img/galeria.png" alt="" /> Galería</a></li> 
-              <li><a href="#"><img src="{{site.url}}/media/img/videos.png" alt="" /> Videos</a></li> 
+              <li><a href="{{site.url}}/videos/"><img src="{{site.url}}/media/img/videos.png" alt="" /> Videos</a></li> 
             </ul> 
         </div> 
         <div id="abajo"> 
@@ -103,7 +103,20 @@
             <span id="buscar"><form name="searchform" action="http://wiki.gulbac.org.ar/index.php/Especial:Search" id="searchform">Buscar <input type="text" name="search" accesskey="f" value="" /></form></span> 
         </div> 
     </header> 
-    <div id="main"> 
+    <div id="main">
+
+    	<div align="center">
+			<a href="{{site.url}}/software-libre/">
+			<img src="{{site.url}}/media/img/banner1.png" alt="Que es el software libre?" />
+			</a> &nbsp;
+			<a href="{{site.url}}/soporte/">
+			<img src="{{site.url}}/media/img/banner2.png" alt="Te ayudamos a instalar software libre" />
+			</a> &nbsp;
+			<a href="http://wiki.gulbac.org.ar/index.php/Informaci%C3%B3n/ComoAyudar">
+			<img src="{{site.url}}/media/img/banner3.png" alt="Participe en gulBAC" />
+			</a>
+		</div> <!-- modificacion de dario abril 2011 -->
+     
         <div id="cont"> 
             {% block content %}{% endblock %}
             
@@ -117,8 +130,8 @@
                 <li><a href="{{site.url}}/mision-vision-valores">Misi&oacute;n, visi&oacute;n y valores</a></li> 
                 <li><a href="{{site.url}}/faq">Preguntas Frecuentes</a></li> 
                 <li><a href="{{site.url}}/gnu">Movimiento GNU y FSF</a></li> 
-                <li><a href="{{site.url}}/licencias">Licencias</a></li> 
-                <li><a href="{{site.url}}/soporte">Backend</a></li>
+                <li><a href="http://wiki.gulbac.org.ar/index.php/Informaci%C3%B3n/Licencia">Licencias</a></li> 
+                <li><a href="{{site.url}}/soporte">Ayuda!! - Soporte</a></li>
                 <li><a href="http://wiki.gulbac.org.ar/index.php/Especial:Recentchanges">Cambios Recientes</a></li>
                 <li><a href="{{site.url}}/contacto">Contactanos!</a></li> 
             </ul> 
