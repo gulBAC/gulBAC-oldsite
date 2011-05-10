@@ -1,0 +1,30 @@
+{% extends "_post.html" %}
+
+{%load webdesign %}
+
+{%hyde
+    title: Inauguramos sistema de preguntas y respuestas!
+    desc: Para poder ofrecer soporte a usuarios a través de un método simple y fácil de usar por cualquiera. Sacate ya tus dudas!
+    created: 2011-04-30 14:15:01
+%}
+
+{% block article %}
+
+{% article %}
+
+{% excerpt %}
+
+![banner]({{site.url}}/media/img/tito01.png)
+
+## Ya está online!
+
+El sistema está funcionando y se puede acceder desde <a href="http://preguntas.gulbac.org.ar">preguntas.gulbac.org.ar</a>.
+
+¿Qué estás esperando para empezar a preguntar <strong>y responder</strong> ;-) ?
+
+
+{% endexcerpt %}
+
+{% endarticle %}
+
+{% endblock %}
