@@ -99,6 +99,11 @@ hr {
     margin-top: 5px;
     }
 
+#banners a img{
+    margin-right: 10px;
+    margin-bottom: 6px;
+    }
+
 #logo {
     position: absolute;
     left: 10px;
