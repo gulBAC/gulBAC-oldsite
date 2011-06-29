@@ -1,0 +1,29 @@
+{% extends "_post.html" %}
+
+{%load webdesign %}
+
+{%hyde
+    title: Nuevo sitio Noticias gulBAC
+    desc: Inauguramos un blog donde se actualizará constantemente el contenido con el fin de informar noticias o compartir material de interés!
+    created: 2011-06-28 14:15:01
+%}
+
+{% block article %}
+
+{% article %}
+
+{% excerpt %}
+
+![banner]({{site.url}}/media/img/notigulbac.png)
+
+El mismo será temporal hasta que podamos incorporar mayor dinamismo a nuestra página principal.
+
+## Ya está online!
+
+Se puede acceder desde <a href="http://noticias.gulbac.org.ar">noticias.gulbac.org.ar</a>.
+
+{% endexcerpt %}
+
+{% endarticle %}
+
+{% endblock %}
