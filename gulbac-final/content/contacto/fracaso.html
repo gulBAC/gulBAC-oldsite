@@ -1,0 +1,15 @@
+{% extends "_staticpage.html" %}
+
+{%hyde
+    title: "Falló el contacto"
+%}
+
+{% block article %}
+
+Ocurrió un error y el formulario no pudo enviarse. Por favor inténtelo
+nuevamente o intente contactarse <a href="{{site.url}}/soporte">por otros
+medios</a>
+
+<a href="{{site.url}}/contacto">Volver al formulario</a>
+
+{% endblock %}
