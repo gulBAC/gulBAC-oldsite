@@ -6,6 +6,7 @@ clydetest:
         draft_branch: drafts
         production_branch: master
 
+
 site2: 
     path: ~/mysite
     repo:
