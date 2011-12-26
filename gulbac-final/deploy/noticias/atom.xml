@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2011-06-29T16:27:36Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2011-12-26T17:34:46Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -54,6 +54,17 @@ Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza par
 &lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
 &lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
 &lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Gestor de Tareas&amp;nbsp;TaskFreak!&lt;/h2&gt;
+&lt;p&gt;Pusimos en marcha una nueva herramienta para que la colaboracion con &lt;strong&gt;gulBAC&lt;/strong&gt; sea mas sencilla y ordenada, se trata del software &lt;a href=&quot;http://www.taskfreak.com/&quot; title=&quot;TaskFreak&quot;&gt;TaskFreak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los invitamos a &lt;a href=&quot;http://www.gulbac.org.ar/tareas/&quot; title=&quot;Tareas gulBAC&quot;&gt;registrarse&lt;/a&gt; y de esa manera poder empezar a colaborar con &lt;strong&gt;gulBAC&lt;/strong&gt;. Si tienen alguna duda, pueden contactarse con algun administrador enviando un correo, trataremos de responder a la&amp;nbsp;brevedad.&lt;/p&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
