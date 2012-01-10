@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2011-12-26T19:00:28Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-01-09T21:22:18Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -54,6 +54,17 @@ Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza par
 &lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
 &lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
 &lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Nos estamos mudando</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/mudanza"/><updated>2012-01-09T00:00:01Z</updated><published>2012-01-09T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/mudanza</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Mudamos gulBAC de&amp;nbsp;servidor&lt;/h2&gt;
+&lt;p&gt;De la mano amiga de &lt;a href=&quot;http://www.usla.org.ar/&quot; title=&quot;USLA&quot;&gt;USLA&lt;/a&gt; vamos a mudar todos nuestros bartulos de servidor, para poder utilizar nuevas herramientas y tener mas posibilidades de implementar cosas&amp;nbsp;nuevas.&lt;/p&gt;
+&lt;p&gt;Si en estos dias ven algunos problemas, seguramente se deban a estos cambios que se estaran realizando, no se asusten que cuando volvamos les&amp;nbsp;avisamos.&lt;/p&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
