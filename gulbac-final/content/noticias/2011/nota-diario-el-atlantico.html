@@ -1,0 +1,27 @@
+{% extends "_post.html" %}
+
+{%load webdesign %}
+
+{%hyde
+    title: Nota diario El Atlantico
+    desc: Recorte y enlace de la nota
+    created: 2011-04-06 00:00:01
+%}
+
+{% block article %}
+
+{% article %}
+
+{% excerpt %}
+
+![nota_diario]({{site.url}}/media/img/noticias/nota_gulbac_diario_el_atlantico_c.jpg)
+
+## Cobertura de prensa
+Agradecemos a el diario *El Atlantico* de Mar del Plata por publicar una nota sobre el evento que realizamos, puede [ver el articulo](http://www.diarioelatlantico.com/diario/2011/04/06/25643-festival-latinoamericano-de-instalacion-de-software-libre.html "Articulo gulBAC diario el atlantico") o la [captura]({{site.url}}/media/img/noticias/nota_gulbac_diario_el_atlantico.jpg "nota_diario_el_atlantico") que tenemos del mismo.
+
+
+{% endexcerpt %}
+
+{% endarticle %}
+
+{% endblock %}
