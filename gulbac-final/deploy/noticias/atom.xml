@@ -1,63 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-03-21T06:46:37Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
-&lt;p&gt;El día sábado 4 de diciembre de 15:30 a 19:30 hs. en Guido 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
-&lt;h2&gt;Descripción&lt;/h2&gt;
-&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
-&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos. Tenemos diferentes opciones y te asesoramos para que puedas elegir la que más te guste y te&amp;nbsp;convenga:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
-&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Si por ahora querés mantener el sistema operativo que usas actualmente no hay problema, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál de los dos sistemas&amp;nbsp;trabajar.&lt;/p&gt;
-&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
-&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
-&lt;p&gt;Traé tu mate y tu termo. También habrá café, jugos, tortas y otras delicatessen &quot;libres&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
-&lt;p&gt;Te esperamos el sábado 4 de diciembre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
-&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Feliz cumpleaños gulBAC!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac"/><updated>2010-11-18T00:00:01Z</updated><published>2010-11-18T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;Torta&quot; src=&quot;/media/img/cumple.png&quot; /&gt;El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
-Para festejarlo, como no podia ser de otra manera, estamos hackeando el sitio, le pegamos no solo una lavada de cara si no que tambien un cambio de motor para hacer mas funcional y accesible el sitio para todos.
-Año a año cada vez más gente se une al grupo de usuarios para colaborar en eventos, ayudar a otros, aprender o simplemente socializar con gente que utiliza o desarrolla Software Libre.
-Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza para seguir creciendo y cumpliendo nuestros&amp;nbsp;objetivos.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Jornada de Instalación y soporte de Software Libre</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion"/><updated>2010-10-10T00:00:01Z</updated><published>2010-10-10T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
-&lt;p&gt;SABADO 16 de OCTUBRE de 15:30 a 19:30 hs. en GUIDO 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
-&lt;h2&gt;Descripción&lt;/h2&gt;
-&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
-&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos... Tenemos diferentes distribuciones GNU/Linux para que puedas elegir la que más te guste o te&amp;nbsp;convenga:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
-&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Si por ahora querés mantener MS Windows en tu PC, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál sistema operativo&amp;nbsp;trabajar.&lt;/p&gt;
-&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
-&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
-&lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
-&lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
-&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-03-28T00:59:31Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -75,15 +17,27 @@ Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza par
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
 
-&lt;h2&gt;FLISoL 2012 en Mar del&amp;nbsp;Plata&lt;/h2&gt;
-&lt;p&gt;El &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; (FLISoL) es el evento de difusión de &lt;strong&gt;Software Libre&lt;/strong&gt; más grande de la región, abarcando mas de 200 ciudades. Se realiza desde el año 2005 y su principal objetivo es promover el uso del Software Libre. Está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
-&lt;p&gt;Las diversas comunidades (en cada país/ciudad/localidad), organizan simultáneamente eventos en los que se instala, de manera gratuita y totalmente legal, Software Libre en las computadoras de los asistentes. En forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en toda su gama de expresiones: artística, académica, empresarial y&amp;nbsp;social.&lt;/p&gt;
-&lt;p&gt;Este año, la comunidad de &lt;strong&gt;gulBAC Mar del Plata&lt;/strong&gt;, volverá a celebrar este evento en las instalaciones de &lt;strong&gt;ADUM (Guido 3248)&lt;/strong&gt;. En esta oportunidad, todo el festival estará relacionado con las tematicas: &lt;strong&gt;&quot;Entretenimento y Educación&quot;&lt;/strong&gt; para acercar a estos sectores a la filosofía libre. Si tu computadora no tiene lo último no te preocupes, tenemos software para todo tipo de computadoras. Además, si ya tenes Linux instalado y hay algo que no te funciona, trae tu maquina y te ayudaremos a solucionarlo. Charlas y&amp;nbsp;debates&lt;/p&gt;
-&lt;p&gt;Queres exponer? &lt;a href=&quot;http://www.gulbac.org.ar/call-flisol-2012-mar-del-plata/&quot; title=&quot;Call for charlas&quot;&gt;Call for&amp;nbsp;Charlas&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h3&gt;
-&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
-&lt;h3&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h3&gt;
+&lt;p&gt;El &lt;strong&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/strong&gt; (FLISoL) es el evento de difusión de &lt;strong&gt;Software Libre&lt;/strong&gt; más grande de la región, abarcando mas de 200 ciudades. Se realiza desde el año 2005 y su principal objetivo es promover el uso del Software&amp;nbsp;Libre. &lt;/p&gt;
+&lt;p&gt;Simultáneamente, en diversas ciudades del mundo, se estarán organizando eventos en los que se instala, de manera gratuita y totalmente legal, Software Libre en las computadoras de los asistentes.  También, se ofrecen charlas, ponencias y talleres sobre los distintos ámbitos en los que se puede adoptar esta&amp;nbsp;filosofía. &lt;/p&gt;
+&lt;p&gt;Este año, la comunidad de &lt;strong&gt;gulBAC Mar del Plata&lt;/strong&gt;, volverá a organizar Flisol en las instalaciones de ADUM (Gral. Roca 3865). En esta oportunidad, todo el festival estará relacionado con la temática: &lt;strong&gt;&quot;Entretenimiento y Educación&quot;&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;Si tu computadora no tiene lo último en tecnología no te preocupes, tenemos software para todo tipo de máquinas. Además, si ya tenés GNU/Linux instalado y hay algo que no funciona, vení y te ayudamos&amp;nbsp;a solucionarlo. &lt;/p&gt;
+&lt;h2&gt;Charlas:&lt;/h2&gt;
+&lt;p&gt;¡Muy pronto tendremos el cronograma&amp;nbsp;listo!&lt;/p&gt;
+&lt;p&gt;Si querés dar una charla, tenés tiempo hasta el 30 de Abril: &lt;a href=&quot;http://www.gulbac.org.ar/call-flisol-2012-mar-del-plata/&quot; title=&quot;Call for charlas&quot;&gt;Call for&amp;nbsp;Charlas&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
+&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
+&lt;h2&gt;¿Cuando lo&amp;nbsp;hacemos?&lt;/h2&gt;
+&lt;p&gt;El Sábado 28 de Abril. Para hacerte acordar te dejamos &lt;a href=&quot;https://www.google.com/calendar/event?action=TEMPLATE&amp;amp;tmeid=c2V0cXI2b2xhaWVuazFxbGlncjNmNDZkc2MgNDVtaHZhNXNtODFrOXI3Zzk3dXJkdms4ajhAZw&amp;amp;tmsrc=45mhva5sm81k9r7g97urdvk8j8%40group.calendar.google.com&quot; title=&quot;Google Calendar&quot;&gt;un link al evento en Google&lt;/a&gt; y &lt;a href=&quot;https://www.facebook.com/events/349949708381405/&quot; title=&quot;Facebook&quot;&gt;otro al que creamos en Facebook&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
 &lt;p&gt;La asistencia al evento es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
+&lt;h2&gt;¿Dónde&amp;nbsp;es?&lt;/h2&gt;
+&lt;p&gt;Va de nuevo: Gral. Roca 3865 (ADUM). Si vas en colectivo, llegas con el: 531, 532, 571 y&amp;nbsp;525.&lt;/p&gt;
+&lt;iframe width=&quot;425&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;http://maps.google.com.ar/maps/ms?msa=0&amp;amp;msid=211334770110359554191.0004bb9ac72e36783048d&amp;amp;ie=UTF8&amp;amp;t=m&amp;amp;z=17&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2&gt;¡Si querés preguntarnos algo, no dudes en visitar nuestros perfiles en redes&amp;nbsp;sociales!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/gulbac&quot;&gt;&lt;img src=&quot;http://dl.dropbox.com/u/788333/FLISoL/Twitter.png&quot; title=&quot;Twitter&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/pages/GulBAC/215844445175961&quot;&gt;&lt;img src=&quot;http://dl.dropbox.com/u/788333/FLISoL/facebook-logo.png&quot; title=&quot;Facebook&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
@@ -231,6 +185,64 @@ por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&
 &lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
 &lt;p&gt;La asistencia al evento es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
+&lt;p&gt;El día sábado 4 de diciembre de 15:30 a 19:30 hs. en Guido 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
+&lt;h2&gt;Descripción&lt;/h2&gt;
+&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
+&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos. Tenemos diferentes opciones y te asesoramos para que puedas elegir la que más te guste y te&amp;nbsp;convenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
+&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si por ahora querés mantener el sistema operativo que usas actualmente no hay problema, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál de los dos sistemas&amp;nbsp;trabajar.&lt;/p&gt;
+&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
+&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
+&lt;p&gt;Traé tu mate y tu termo. También habrá café, jugos, tortas y otras delicatessen &quot;libres&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
+&lt;p&gt;Te esperamos el sábado 4 de diciembre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
+&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Feliz cumpleaños gulBAC!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac"/><updated>2010-11-18T00:00:01Z</updated><published>2010-11-18T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Torta&quot; src=&quot;/media/img/cumple.png&quot; /&gt;El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
+Para festejarlo, como no podia ser de otra manera, estamos hackeando el sitio, le pegamos no solo una lavada de cara si no que tambien un cambio de motor para hacer mas funcional y accesible el sitio para todos.
+Año a año cada vez más gente se une al grupo de usuarios para colaborar en eventos, ayudar a otros, aprender o simplemente socializar con gente que utiliza o desarrolla Software Libre.
+Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza para seguir creciendo y cumpliendo nuestros&amp;nbsp;objetivos.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Jornada de Instalación y soporte de Software Libre</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion"/><updated>2010-10-10T00:00:01Z</updated><published>2010-10-10T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
+&lt;p&gt;SABADO 16 de OCTUBRE de 15:30 a 19:30 hs. en GUIDO 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
+&lt;h2&gt;Descripción&lt;/h2&gt;
+&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
+&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos... Tenemos diferentes distribuciones GNU/Linux para que puedas elegir la que más te guste o te&amp;nbsp;convenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
+&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si por ahora querés mantener MS Windows en tu PC, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál sistema operativo&amp;nbsp;trabajar.&lt;/p&gt;
+&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
+&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
+&lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
+&lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
+&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
