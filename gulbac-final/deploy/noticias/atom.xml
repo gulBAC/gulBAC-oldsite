@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-03-28T00:59:31Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-03-28T01:23:14Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -23,7 +23,7 @@
 &lt;p&gt;Si tu computadora no tiene lo último en tecnología no te preocupes, tenemos software para todo tipo de máquinas. Además, si ya tenés GNU/Linux instalado y hay algo que no funciona, vení y te ayudamos&amp;nbsp;a solucionarlo. &lt;/p&gt;
 &lt;h2&gt;Charlas:&lt;/h2&gt;
 &lt;p&gt;¡Muy pronto tendremos el cronograma&amp;nbsp;listo!&lt;/p&gt;
-&lt;p&gt;Si querés dar una charla, tenés tiempo hasta el 30 de Abril: &lt;a href=&quot;http://www.gulbac.org.ar/call-flisol-2012-mar-del-plata/&quot; title=&quot;Call for charlas&quot;&gt;Call for&amp;nbsp;Charlas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Si querés dar una charla, tenés tiempo hasta el 30 de Abril: &lt;a href=&quot;http://gulbac.org.ar/noticias/2012/call-flisol-2012-mar-del-plata&quot; title=&quot;Call for charlas&quot;&gt;Call for&amp;nbsp;Charlas&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
 &lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
 &lt;h2&gt;¿Cuando lo&amp;nbsp;hacemos?&lt;/h2&gt;
@@ -48,8 +48,9 @@
 
 &lt;h2&gt;Call For Charlas para el FLISoL 2012 en Mar del&amp;nbsp;Plata&lt;/h2&gt;
 &lt;p&gt;GulBAC (Grupo de Usuarios de GNU/Linux y Software Libre de Buenos Aires Central) los invita a ser parte del Festival de Instalación de Software Libre 2012. El mismo tendrá como temática: Entretenimiento y&amp;nbsp;Educación.&lt;/p&gt;
-&lt;p&gt;¿Te gustaría ser parte de las charlas? Envíanos tu propuesta con los siguientes datos:&amp;nbsp;Título:&lt;/p&gt;
+&lt;p&gt;¿Te gustaría ser parte de las charlas? Envíanos tu propuesta con los siguientes&amp;nbsp;datos:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;Título&lt;/li&gt;
 &lt;li&gt;Autor(es): Nombre y apellido, breve descripción de cada uno, foto, asociación, grupo de usuarios, y organismo o empresa a la que pertenece (si&amp;nbsp;corresponde).&lt;/li&gt;
 &lt;li&gt;Charla: una breve descripción (Dos párrafos dónde se explique el contenido de la&amp;nbsp;presentación).&lt;/li&gt;
 &lt;li&gt;Tipo de público al que estaría destinada la charla. Ej. Docentes, público en general, desarrolladores,&amp;nbsp;empresarios.&lt;/li&gt;
@@ -57,7 +58,7 @@
 &lt;li&gt;Licencia: Debe especificarse una licencia que permita que gulBAC distribuya el material de la charla y la charla en sí en el sitio web de gulBAC. Se recomienda Creative Commons o&amp;nbsp;similares.&lt;/li&gt;
 &lt;li&gt;Tener en cuenta que el tiempo estimado de la charla no puede superar los 30 minutos. En caso de que haya preguntas para responder se destinarán unos minutos&amp;nbsp;extra.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Podés elegir el tema que desees para tu charla, pero orientarla a la temática del&amp;nbsp;evento.&lt;/p&gt;
+&lt;p&gt;Podés elegir el tema que desees para tu charla, pero orientala a la temática del&amp;nbsp;evento.&lt;/p&gt;
 &lt;p&gt;Para enviar la propuesta y realizar consultas o sugerencias, por favor escribinos a: eventos(at)gulbac.org.ar. Hay tiempo hasta el 30 de&amp;nbsp;Marzo.&lt;/p&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
