@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-04-01T18:02:58Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-04-02T19:50:03Z</updated><id>http://www.gulbac.org.ar</id><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
+&lt;p&gt;El día sábado 4 de diciembre de 15:30 a 19:30 hs. en Guido 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
+&lt;h2&gt;Descripción&lt;/h2&gt;
+&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
+&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos. Tenemos diferentes opciones y te asesoramos para que puedas elegir la que más te guste y te&amp;nbsp;convenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
+&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si por ahora querés mantener el sistema operativo que usas actualmente no hay problema, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál de los dos sistemas&amp;nbsp;trabajar.&lt;/p&gt;
+&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
+&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
+&lt;p&gt;Traé tu mate y tu termo. También habrá café, jugos, tortas y otras delicatessen &quot;libres&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
+&lt;p&gt;Te esperamos el sábado 4 de diciembre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
+&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Feliz cumpleaños gulBAC!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac"/><updated>2010-11-18T00:00:01Z</updated><published>2010-11-18T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Torta&quot; src=&quot;/media/img/cumple.png&quot; /&gt;El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
+Para festejarlo, como no podia ser de otra manera, estamos hackeando el sitio, le pegamos no solo una lavada de cara si no que tambien un cambio de motor para hacer mas funcional y accesible el sitio para todos.
+Año a año cada vez más gente se une al grupo de usuarios para colaborar en eventos, ayudar a otros, aprender o simplemente socializar con gente que utiliza o desarrolla Software Libre.
+Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza para seguir creciendo y cumpliendo nuestros&amp;nbsp;objetivos.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Jornada de Instalación y soporte de Software Libre</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion"/><updated>2010-10-10T00:00:01Z</updated><published>2010-10-10T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
+&lt;p&gt;SABADO 16 de OCTUBRE de 15:30 a 19:30 hs. en GUIDO 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
+&lt;h2&gt;Descripción&lt;/h2&gt;
+&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
+&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos... Tenemos diferentes distribuciones GNU/Linux para que puedas elegir la que más te guste o te&amp;nbsp;convenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
+&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si por ahora querés mantener MS Windows en tu PC, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál sistema operativo&amp;nbsp;trabajar.&lt;/p&gt;
+&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
+&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
+&lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
+&lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
+&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>gulBAC responde!!! difundi la palabra</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/campania-gulbac-responde"/><updated>2012-04-02T00:00:01Z</updated><published>2012-04-02T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/campania-gulbac-responde</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Banner&quot; src=&quot;/media/img/banner-preguntas-150.gif&quot; /&gt; Creemos que una de las mejores formas de &lt;strong&gt;generar comunidad&lt;/strong&gt; y seguir difundiendo la palabra es ayudando, por eso queremos darle mas impulso al sitio de preguntas y respuestas de&amp;nbsp;gulBAC.&lt;/p&gt;
+&lt;p&gt;Se generaron dos tipos de banner para que puedan poner en su sitio web, pagina personal o asi mismo las redes sociales donde participes, haciendo un enlace al &lt;a href=&quot;http://www.gulbac.org.ar/preguntas/&quot; title=&quot;Preguntas y respuestas&quot;&gt;sitio de preguntas y respuestas&lt;/a&gt; de&amp;nbsp;gulBAC.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/media/img/banner-preguntas-150.gif&quot;&gt;Descargar banner&amp;nbsp;640&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/media/img/banner-preguntas-640.jpg&quot;&gt;Descargar banner&amp;nbsp;150&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De esa manera nos estaras dando una mano para seguir&amp;nbsp;creciendo.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Sponsors para FLISol</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata"/><updated>2012-03-21T00:00:01Z</updated><published>2012-03-21T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sponsors-flisol-2012-mar-del-plata</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -185,64 +258,6 @@ por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&
 &lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
 &lt;p&gt;La asistencia al evento es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>2da Jornada de Instalación y soporte</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion"/><updated>2010-11-29T00:00:01Z</updated><published>2010-11-29T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/2da-jornada-de-instalacion</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
-&lt;p&gt;El día sábado 4 de diciembre de 15:30 a 19:30 hs. en Guido 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
-&lt;h2&gt;Descripción&lt;/h2&gt;
-&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
-&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos. Tenemos diferentes opciones y te asesoramos para que puedas elegir la que más te guste y te&amp;nbsp;convenga:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
-&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Si por ahora querés mantener el sistema operativo que usas actualmente no hay problema, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál de los dos sistemas&amp;nbsp;trabajar.&lt;/p&gt;
-&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
-&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
-&lt;p&gt;Traé tu mate y tu termo. También habrá café, jugos, tortas y otras delicatessen &quot;libres&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
-&lt;p&gt;Te esperamos el sábado 4 de diciembre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
-&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Feliz cumpleaños gulBAC!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac"/><updated>2010-11-18T00:00:01Z</updated><published>2010-11-18T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/feliz-cumpleanos-gulbac</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;Torta&quot; src=&quot;/media/img/cumple.png&quot; /&gt;El día de la fecha el Grupo de Usuarios de GNU+Linux y Software Libre de Buenos Aires Central cumple 7 años!
-Para festejarlo, como no podia ser de otra manera, estamos hackeando el sitio, le pegamos no solo una lavada de cara si no que tambien un cambio de motor para hacer mas funcional y accesible el sitio para todos.
-Año a año cada vez más gente se une al grupo de usuarios para colaborar en eventos, ayudar a otros, aprender o simplemente socializar con gente que utiliza o desarrolla Software Libre.
-Esperamos que esta fecha y los cambios realizados nos hagan tomar mas fuerza para seguir creciendo y cumpliendo nuestros&amp;nbsp;objetivos.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Jornada de Instalación y soporte de Software Libre</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion"/><updated>2010-10-10T00:00:01Z</updated><published>2010-10-10T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2010/1era-jornada-de-instalacion</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;h2&gt;Lugar y&amp;nbsp;Fecha&lt;/h2&gt;
-&lt;p&gt;SABADO 16 de OCTUBRE de 15:30 a 19:30 hs. en GUIDO 3248 - Mar del Plata&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
-&lt;h2&gt;Descripción&lt;/h2&gt;
-&lt;p&gt;Traé tu CPU, notebook o netbook: te ayudamos a instalar tu sistema operativo libre y los programas que necesitás para trabajar, estudiar, desarrollar proyectos de todo tipo, crear o editar imagen, música y video, navegar por Internet, gestionar tu correo, chatear y hablar por VoIP, disfrutar tu música o tus películas, o simplemente&amp;nbsp;jugar.&lt;/p&gt;
-&lt;p&gt;No importa si tu PC es &quot;último modelo&quot; o ya tiene muchos añitos... Tenemos diferentes distribuciones GNU/Linux para que puedas elegir la que más te guste o te&amp;nbsp;convenga:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Para las PC más actuales: Debian (Lenny o Squeeze) - Ubuntu - Kubuntu - ArchLinux - Mint - Tuquito -&amp;nbsp;Fedora&lt;/li&gt;
-&lt;li&gt;Para las PC viejitas o con muy pocos recursos: Molinux Zero - Tiny Core ¡No te lo pierdas, resucitá tu&amp;nbsp;&quot;abandonware&quot;!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Si por ahora querés mantener MS Windows en tu PC, te instalamos GNU/Linux en una partición diferente, para que cada vez que inicies la compu puedas elegir con cuál sistema operativo&amp;nbsp;trabajar.&lt;/p&gt;
-&lt;p&gt;Sólo tenés que traer tu PC con Windows BIEN DEFRAGMENTADO, para no perder ni datos ni&amp;nbsp;tiempo.&lt;/p&gt;
-&lt;p&gt;Y si ya tenés software libre instalado en tu PC, también te ayudaremos a resolver inconvenientes con &quot;ese programita&quot; que todavía no podés configurar para que &quot;ande 10 puntos&quot;, o con ese driver privativo que todavía se&amp;nbsp;resiste...&lt;/p&gt;
-&lt;p&gt;Traé tu mate y tu termo. También habrá café y jugos (libres) y... tortas y otras delicatessen &quot;open source&quot; (si querés, te damos las&amp;nbsp;recetas).&lt;/p&gt;
-&lt;p&gt;Te esperamos el sábado 16 de octubre, de 15:30 a 19:30 hs. en Guido 3248 (A.D.U.M., Agremiación Docente Universitaria&amp;nbsp;Marplatense).&lt;/p&gt;
-&lt;h3&gt;La entrada es libre y gratuita. ¡No&amp;nbsp;faltes!&lt;/h3&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
