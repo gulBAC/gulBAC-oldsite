@@ -1,1 +1,35 @@
-(function(a){})(window.jQuery);window.log=function(){log.history=log.history||[];log.history.push(arguments);if(this.console){console.log(Array.prototype.slice.call(arguments))}};(function(b){var a=b.write;b.write=function(c){log("document.write(): ",arguments);if(/docwriteregexwhitelist/.test(c)){a.apply(b,arguments)}}})(document);
+
+
+(function($){
+
+ 
+
+
+
+
+
+ 
+
+
+
+})(window.jQuery);
+
+
+
+window.log = function(){
+  log.history = log.history || []; 
+  log.history.push(arguments);
+  if(this.console){
+    console.log( Array.prototype.slice.call(arguments) );
+  }
+};
+
+(function(doc){
+  var write = doc.write;
+  doc.write = function(q){ 
+    log('document.write(): ',arguments); 
+    if (/docwriteregexwhitelist/.test(q)) write.apply(doc,arguments);  
+  };
+})(document);
+
+

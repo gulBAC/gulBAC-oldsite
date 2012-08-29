@@ -1,5 +1,195 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-06-11T21:49:16Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Reunión del Nodo MDQ</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/reunion-nodo-mdq"/><updated>2012-06-07T00:00:01Z</updated><published>2012-06-07T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/reunion-nodo-mdq</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-08-29T00:43:33Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;h2&gt;Gestor de Tareas&amp;nbsp;TaskFreak!&lt;/h2&gt;
+&lt;p&gt;Pusimos en marcha una nueva herramienta para que la colaboracion con &lt;strong&gt;gulBAC&lt;/strong&gt; sea mas sencilla y ordenada, se trata del software &lt;a href=&quot;http://www.taskfreak.com/&quot; title=&quot;TaskFreak&quot;&gt;TaskFreak&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los invitamos a &lt;a href=&quot;http://www.gulbac.org.ar/tareas/&quot; title=&quot;Tareas gulBAC&quot;&gt;registrarse&lt;/a&gt; y de esa manera poder empezar a colaborar con &lt;strong&gt;gulBAC&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ademas, podran ver que volvimos a la vida el &lt;a href=&quot;http://www.gulbac.org.ar/bts/&quot; title=&quot;Sistema de ticket gulBAC&quot;&gt;sistema de ticket&lt;/a&gt; para que si ven algun error o algo anda mal puedan ustedes mismos registrarlo y asi agilizar las&amp;nbsp;cosas.&lt;/p&gt;
+&lt;p&gt;Si tienen alguna duda, pueden contactarse con algun administrador enviando un correo, trataremos de responder a la&amp;nbsp;brevedad.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Nuevo sitio! Noticias gulBAC</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/nuevo-sitio-noticias"/><updated>2011-06-28T14:15:01Z</updated><published>2011-06-28T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/nuevo-sitio-noticias</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/notigulbac.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;El mismo será temporal hasta que podamos incorporar mayor dinamismo a nuestra página&amp;nbsp;principal.&lt;/p&gt;
+&lt;h2&gt;Ya está&amp;nbsp;online!&lt;/h2&gt;
+&lt;p&gt;Se puede acceder desde &lt;a href=&quot;http://noticias.gulbac.org.ar&quot;&gt;noticias.gulbac.org.ar&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Nos mudamos! Ahora &quot;atendemos&quot; en el Colegio Mariano Moreno</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/eventos-mariano-moreno-2011"/><updated>2011-06-25T14:15:01Z</updated><published>2011-06-25T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/eventos-mariano-moreno-2011</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/banner2.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;gulBAC se muda de&amp;nbsp;sede!&lt;/h2&gt;
+&lt;p&gt;Debido a lamentables sucesos ocurridos que afectaron a la Casa de Juventud MGP, gulBAC
+no podrá temporariamente utilizar físicamente sus instalaciones. Aún así, la
+Secretaría de Juventud sigue dispuesta a ayudarnos en lo que necesitemos y
+por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&gt;
+&lt;p&gt;A partir de ahora estaremos &lt;em&gt;todos los sábados de 14 a 16&lt;/em&gt; en el Colegio Mariano Moreno, ubicado en &lt;em&gt;Alberti casi Mitre&lt;/em&gt; (entrada por Alberti, puerta blanca tras de rejas negras con un cartel que nos&amp;nbsp;identifica)&lt;/p&gt;
+&lt;p&gt;Afortunadamente podemos nuevamente invitar al público a que se acerque, si tiene problemas con software libre, si quiere aprender, si tiene proyectos para comunicarnos, ganas de ayudar o participar, o simplemente pasar a conocer, saludar, tomarse un mate,&amp;nbsp;etc.&lt;/p&gt;
+&lt;p&gt;Los&amp;nbsp;esperamos!&lt;/p&gt;
+&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
+&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y a personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
+&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
+&lt;p&gt;La asistencia todos los sábados es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Eventos de Instalación en juventud MdP</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/eventos-juventud-2011"/><updated>2011-04-30T14:15:01Z</updated><published>2011-04-30T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/eventos-juventud-2011</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/banner2.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;gulBAC ahora tiene&amp;nbsp;sede!&lt;/h2&gt;
+&lt;p&gt;Desde el sábado 30 de abril en adelante que la Casa de la Juventud de MGP será sede de gulBAC todos los sábados de 14 a&amp;nbsp;16hs. &lt;/p&gt;
+&lt;p&gt;Estamos muy contentos de poder invitar al público en general a que se acerque, si tiene problemas con software libre, si quiere aprender, si tiene proyectos para comunicarnos, ganas de ayudar o participar, o simplemente pasar a&amp;nbsp;conocer.&lt;/p&gt;
+&lt;p&gt;Todos son&amp;nbsp;bienvenidos!&lt;/p&gt;
+&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
+&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y a personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
+&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
+&lt;p&gt;La asistencia todos los sábados es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Inauguramos sistema de preguntas y respuestas!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/sistema-qa-2011"/><updated>2011-04-30T14:15:01Z</updated><published>2011-04-30T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/sistema-qa-2011</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/tito01.png&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Ya está&amp;nbsp;online!&lt;/h2&gt;
+&lt;p&gt;El sistema está funcionando y se puede acceder desde &lt;a href=&quot;http://preguntas.gulbac.org.ar&quot;&gt;preguntas.gulbac.org.ar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Qué estás esperando para empezar a preguntar &lt;strong&gt;y responder&lt;/strong&gt; ;-)&amp;nbsp;?&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Nota diario El Atlantico</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/nota-diario-el-atlantico"/><updated>2011-04-06T00:00:01Z</updated><published>2011-04-06T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/nota-diario-el-atlantico</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;nota_diario&quot; src=&quot;/media/img/noticias/nota_gulbac_diario_el_atlantico_c.jpg&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;Cobertura de&amp;nbsp;prensa&lt;/h2&gt;
+&lt;p&gt;Agradecemos a el diario &lt;em&gt;El Atlantico&lt;/em&gt; de Mar del Plata por publicar una nota sobre el evento que realizamos, puede &lt;a href=&quot;http://www.diarioelatlantico.com/diario/2011/04/06/25643-festival-latinoamericano-de-instalacion-de-software-libre.html&quot; title=&quot;Articulo gulBAC diario el atlantico&quot;&gt;ver el articulo&lt;/a&gt; o la &lt;a href=&quot;/media/img/noticias/nota_gulbac_diario_el_atlantico.jpg&quot; title=&quot;nota_diario_el_atlantico&quot;&gt;captura&lt;/a&gt; que tenemos del&amp;nbsp;mismo.&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>FLISoL 2011 Mar del Plata</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/flisol-2011"/><updated>2011-03-17T00:00:01Z</updated><published>2011-03-17T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/flisol-2011</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/flisol-2011.gif&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;FLISoL&amp;nbsp;2011&lt;/h2&gt;
+&lt;p&gt;El Festival Latinoamericano de Instalación de Software Libre (FLISoL) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año. En 2011 por única vez será el día 9 de&amp;nbsp;Abril. &lt;/p&gt;
+&lt;p&gt;Su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y&amp;nbsp;desarrollo. &lt;/p&gt;
+&lt;p&gt;A tal fin, las diversas comunidades locales de software libre (en cada país/ciudad/localidad), organizan simultáneamente eventos en los que se instala, de manera gratuita y totalmente legal, software libre en las computadoras que llevan los asistentes. Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en torno al Software Libre, en toda su gama de expresiones: artística, académica, empresarial y&amp;nbsp;social.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Este año&lt;/em&gt;, la comunidad de &lt;em&gt;gulBAC Mar del Plata&lt;/em&gt;, volverá a celebrar este evento en las instalaciones de &lt;em&gt;ADUM (Guido 3248)&lt;/em&gt;. Si no dispones del ultimo grito de la tecnología no desesperes, tenemos software para computadoras mas viejas también. Además si ya tenes Linux instalado y hay algo que no te funciona trae tu maquina y te ayudaremos a solucionar el&amp;nbsp;problema.&lt;/p&gt;
+&lt;h2&gt;Charlas y&amp;nbsp;debates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Introducción al Software&amp;nbsp;Libre&lt;/li&gt;
+&lt;li&gt;Postres Balcarce S.A.: Migración a&amp;nbsp;S.L.&lt;/li&gt;
+&lt;li&gt;B.I.G. Trilogía de&amp;nbsp;diseño&lt;/li&gt;
+&lt;li&gt;Sistema de archivos&amp;nbsp;ZFS&lt;/li&gt;
+&lt;li&gt;Más charlas a&amp;nbsp;confirmar...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
+&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y aun personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
+&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
+&lt;p&gt;La asistencia al evento es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Software Freedom Day en MDQ</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/sfd-2012-mar-del-plata"/><updated>2012-08-28T00:00:01Z</updated><published>2012-08-28T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/sfd-2012-mar-del-plata</id><content type="html">
+       
+
+&lt;!-- Hyde::Excerpt::Begin --&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Banner&quot; src=&quot;/media/img/avatar-150.jpg&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;El &lt;strong&gt;Software Freedom Day&lt;/strong&gt; (SFD) es una celebración global cuya meta es difundir los beneficios de usar &lt;strong&gt;Software Libre&lt;/strong&gt; en la educación, en el gobierno, en el hogar y en los&amp;nbsp;negocios.&lt;/p&gt;
+&lt;p&gt;En esta ocasión, el &lt;strong&gt;nodo Mar del Plata de gulBAC&lt;/strong&gt; y &lt;strong&gt;la Asociación Argentina de Usuarios de Internet (Internauta)&lt;/strong&gt; organizaremos una jornada de charlas y talleres para toda la&amp;nbsp;comunidad.&lt;/p&gt;
+&lt;h2&gt;¿Cuando?&lt;/h2&gt;
+&lt;p&gt;El evento se realizar&amp;aacute; el &lt;strong&gt;S&amp;aacute;bado 15 de Septiembre de 14 hs a 19 hs&lt;/strong&gt;. &lt;/p&gt;
+&lt;h2&gt;¿Cu&amp;aacute;nto&amp;nbsp;sale?&lt;/h2&gt;
+&lt;p&gt;¡La entrada es libre y&amp;nbsp;gratuita!&lt;/p&gt;
+&lt;h2&gt;Charlas&lt;/h2&gt;
+&lt;p&gt;¡Todavía estamos armando el cronograma pero preparate para seguir aprendiendo sobre &lt;strong&gt;Android&lt;/strong&gt;, &lt;strong&gt;T&amp;eacute;rminos y Condiciones&lt;/strong&gt;, &lt;strong&gt;Educaci&amp;oacute;n Libre&lt;/strong&gt;, &lt;strong&gt;Herramientas de monitoreo de red&lt;/strong&gt; y mucho&amp;nbsp;m&amp;aacute;s!&lt;/p&gt;
+&lt;h2&gt;¿A&amp;nbsp;d&amp;oacute;nde?&lt;/h2&gt;
+&lt;p&gt;Guido 3248&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
+&lt;p&gt;Colectivos: 531, 532, 571 y&amp;nbsp;525.&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;425&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://maps.google.com/maps/ms?msa=0&amp;amp;msid=211334770110359554191.0004c85ee23a41c3ef707&amp;amp;ie=UTF8&amp;amp;ll=-38.005175,-57.569975&amp;amp;spn=0,0&amp;amp;t=h&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;Ver &lt;a href=&quot;https://maps.google.com/maps/ms?msa=0&amp;amp;msid=211334770110359554191.0004c85ee23a41c3ef707&amp;amp;ie=UTF8&amp;amp;ll=-38.005175,-57.569975&amp;amp;spn=0,0&amp;amp;t=h&amp;amp;source=embed&quot; style=&quot;color:#0000FF;text-align:left&quot;&gt;SFD 2012 en Mar del Plata&lt;/a&gt; en un mapa ampliado&lt;/small&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;¡Compartilo!&lt;/h2&gt;
+&lt;p&gt;Ayudanos a difundir lo que hacemos compartiendo &amp;eacute;sta p&amp;aacute;gina con tus&amp;nbsp;amigos:&lt;/p&gt;
+&lt;div class=&quot;shr_class shareaholic-show-on-load&quot; style=&quot;width:420px;height:auto;margin: 10px auto;&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;h2&gt;¿Us&amp;aacute;s redes&amp;nbsp;sociales?&lt;/h2&gt;
+&lt;p&gt;¡Pod&amp;eacute;s enterarte lo que se viene antes que nadie visitando nuestros&amp;nbsp;perfiles!&lt;/p&gt;
+&lt;div style=&quot;width:518px;height:auto;margin: 10px auto;&quot;&gt;
+&lt;div style=&quot;float:right;&quot;&gt;
+&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/gulbac&quot; class=&quot;twitter-follow-button&quot; data-show-count=&quot;false&quot; data-lang=&quot;es&quot; data-size=&quot;large&quot; data-show-screen-name=&quot;true&quot;&gt;Seguir a @gulbac&lt;/a&gt;
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+&lt;/div&gt;
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:left;&quot;&gt;
+&lt;div class=&quot;fb-like-box&quot; data-href=&quot;http://www.facebook.com/pages/GulBAC/215844445175961&quot; data-width=&quot;250&quot; data-show-faces=&quot;false&quot; data-stream=&quot;false&quot; data-header=&quot;false&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;g:plusone href=&quot;https://plus.google.com/115659655655231873531&quot;&gt;&lt;/g:plusone&gt;
+&lt;/div&gt;
+
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/es_LA/all.js#xfbml=1&amp;appId=144512168919936&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  (function() {
+    var po = document.createElement(&#39;script&#39;); po.type = &#39;text/javascript&#39;; po.async = true;
+    po.src = &#39;https://apis.google.com/js/plusone.js&#39;;
+    var s = document.getElementsByTagName(&#39;script&#39;)[0]; s.parentNode.insertBefore(po, s);
+  })();
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var SHRSB_Settings = {&quot;shr_class&quot;:{&quot;src&quot;:&quot;/media/shareaholic/&quot;,&quot;link&quot;:&quot;&quot;,&quot;service&quot;:&quot;5,7,304,88,78,205,313&quot;,&quot;apikey&quot;:&quot;0747414f47c2b684cf5480c36b2478689&quot;,&quot;localize&quot;:true,&quot;shortener&quot;:&quot;bitly&quot;,&quot;shortener_key&quot;:&quot;&quot;,&quot;designer_toolTips&quot;:true,&quot;tip_bg_color&quot;:&quot;black&quot;,&quot;tip_text_color&quot;:&quot;white&quot;,&quot;twitter_template&quot;:&quot;${title} - ${short_link} vía @gulbac&quot;}};
+  var SHRSB_Globals = {&quot;perfoption&quot;:&quot;1&quot;};
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot;&gt;
+       (function() {
+            var sb = document.createElement(&quot;script&quot;); sb.type = &quot;text/javascript&quot;;sb.async = true;
+            sb.src = (&quot;https:&quot; == document.location.protocol ? &quot;https://dtym7iokkjlif.cloudfront.net&quot; : &quot;http://cdn.shareaholic.com&quot;) + &quot;/media/js/jquery.shareaholic-publishers-sb.min.js&quot;;
+            var s = document.getElementsByTagName(&quot;script&quot;)[0]; s.parentNode.insertBefore(sb, s);
+        })();
+&lt;/script&gt;
+
+&lt;!-- Hyde::Excerpt::End --&gt;
+
+
+   </content></entry><entry><title>Reunión del Nodo MDQ</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2012/reunion-nodo-mdq"/><updated>2012-06-07T00:00:01Z</updated><published>2012-06-07T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2012/reunion-nodo-mdq</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -195,121 +385,6 @@
 &lt;h2&gt;Mudamos gulBAC de&amp;nbsp;servidor&lt;/h2&gt;
 &lt;p&gt;De la mano amiga de &lt;a href=&quot;http://www.usla.org.ar/&quot; title=&quot;USLA&quot;&gt;USLA&lt;/a&gt; vamos a mudar todos nuestros bartulos de servidor, para poder utilizar nuevas herramientas y tener mas posibilidades de implementar cosas&amp;nbsp;nuevas.&lt;/p&gt;
 &lt;p&gt;Si en estos dias ven algunos problemas, seguramente se deban a estos cambios que se estaran realizando, no se asusten que cuando volvamos les&amp;nbsp;avisamos.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;h2&gt;Gestor de Tareas&amp;nbsp;TaskFreak!&lt;/h2&gt;
-&lt;p&gt;Pusimos en marcha una nueva herramienta para que la colaboracion con &lt;strong&gt;gulBAC&lt;/strong&gt; sea mas sencilla y ordenada, se trata del software &lt;a href=&quot;http://www.taskfreak.com/&quot; title=&quot;TaskFreak&quot;&gt;TaskFreak&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Los invitamos a &lt;a href=&quot;http://www.gulbac.org.ar/tareas/&quot; title=&quot;Tareas gulBAC&quot;&gt;registrarse&lt;/a&gt; y de esa manera poder empezar a colaborar con &lt;strong&gt;gulBAC&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Ademas, podran ver que volvimos a la vida el &lt;a href=&quot;http://www.gulbac.org.ar/bts/&quot; title=&quot;Sistema de ticket gulBAC&quot;&gt;sistema de ticket&lt;/a&gt; para que si ven algun error o algo anda mal puedan ustedes mismos registrarlo y asi agilizar las&amp;nbsp;cosas.&lt;/p&gt;
-&lt;p&gt;Si tienen alguna duda, pueden contactarse con algun administrador enviando un correo, trataremos de responder a la&amp;nbsp;brevedad.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Nuevo sitio! Noticias gulBAC</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/nuevo-sitio-noticias"/><updated>2011-06-28T14:15:01Z</updated><published>2011-06-28T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/nuevo-sitio-noticias</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/notigulbac.png&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;El mismo será temporal hasta que podamos incorporar mayor dinamismo a nuestra página&amp;nbsp;principal.&lt;/p&gt;
-&lt;h2&gt;Ya está&amp;nbsp;online!&lt;/h2&gt;
-&lt;p&gt;Se puede acceder desde &lt;a href=&quot;http://noticias.gulbac.org.ar&quot;&gt;noticias.gulbac.org.ar&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Nos mudamos! Ahora &quot;atendemos&quot; en el Colegio Mariano Moreno</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/eventos-mariano-moreno-2011"/><updated>2011-06-25T14:15:01Z</updated><published>2011-06-25T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/eventos-mariano-moreno-2011</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/banner2.png&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;gulBAC se muda de&amp;nbsp;sede!&lt;/h2&gt;
-&lt;p&gt;Debido a lamentables sucesos ocurridos que afectaron a la Casa de Juventud MGP, gulBAC
-no podrá temporariamente utilizar físicamente sus instalaciones. Aún así, la
-Secretaría de Juventud sigue dispuesta a ayudarnos en lo que necesitemos y
-por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&gt;
-&lt;p&gt;A partir de ahora estaremos &lt;em&gt;todos los sábados de 14 a 16&lt;/em&gt; en el Colegio Mariano Moreno, ubicado en &lt;em&gt;Alberti casi Mitre&lt;/em&gt; (entrada por Alberti, puerta blanca tras de rejas negras con un cartel que nos&amp;nbsp;identifica)&lt;/p&gt;
-&lt;p&gt;Afortunadamente podemos nuevamente invitar al público a que se acerque, si tiene problemas con software libre, si quiere aprender, si tiene proyectos para comunicarnos, ganas de ayudar o participar, o simplemente pasar a conocer, saludar, tomarse un mate,&amp;nbsp;etc.&lt;/p&gt;
-&lt;p&gt;Los&amp;nbsp;esperamos!&lt;/p&gt;
-&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
-&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y a personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
-&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
-&lt;p&gt;La asistencia todos los sábados es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Eventos de Instalación en juventud MdP</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/eventos-juventud-2011"/><updated>2011-04-30T14:15:01Z</updated><published>2011-04-30T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/eventos-juventud-2011</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/banner2.png&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;gulBAC ahora tiene&amp;nbsp;sede!&lt;/h2&gt;
-&lt;p&gt;Desde el sábado 30 de abril en adelante que la Casa de la Juventud de MGP será sede de gulBAC todos los sábados de 14 a&amp;nbsp;16hs. &lt;/p&gt;
-&lt;p&gt;Estamos muy contentos de poder invitar al público en general a que se acerque, si tiene problemas con software libre, si quiere aprender, si tiene proyectos para comunicarnos, ganas de ayudar o participar, o simplemente pasar a&amp;nbsp;conocer.&lt;/p&gt;
-&lt;p&gt;Todos son&amp;nbsp;bienvenidos!&lt;/p&gt;
-&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
-&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y a personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
-&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
-&lt;p&gt;La asistencia todos los sábados es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Inauguramos sistema de preguntas y respuestas!</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/sistema-qa-2011"/><updated>2011-04-30T14:15:01Z</updated><published>2011-04-30T14:15:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/sistema-qa-2011</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/tito01.png&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;Ya está&amp;nbsp;online!&lt;/h2&gt;
-&lt;p&gt;El sistema está funcionando y se puede acceder desde &lt;a href=&quot;http://preguntas.gulbac.org.ar&quot;&gt;preguntas.gulbac.org.ar&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;¿Qué estás esperando para empezar a preguntar &lt;strong&gt;y responder&lt;/strong&gt; ;-)&amp;nbsp;?&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>Nota diario El Atlantico</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/nota-diario-el-atlantico"/><updated>2011-04-06T00:00:01Z</updated><published>2011-04-06T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/nota-diario-el-atlantico</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;nota_diario&quot; src=&quot;/media/img/noticias/nota_gulbac_diario_el_atlantico_c.jpg&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;Cobertura de&amp;nbsp;prensa&lt;/h2&gt;
-&lt;p&gt;Agradecemos a el diario &lt;em&gt;El Atlantico&lt;/em&gt; de Mar del Plata por publicar una nota sobre el evento que realizamos, puede &lt;a href=&quot;http://www.diarioelatlantico.com/diario/2011/04/06/25643-festival-latinoamericano-de-instalacion-de-software-libre.html&quot; title=&quot;Articulo gulBAC diario el atlantico&quot;&gt;ver el articulo&lt;/a&gt; o la &lt;a href=&quot;/media/img/noticias/nota_gulbac_diario_el_atlantico.jpg&quot; title=&quot;nota_diario_el_atlantico&quot;&gt;captura&lt;/a&gt; que tenemos del&amp;nbsp;mismo.&lt;/p&gt;
-&lt;!-- Hyde::Excerpt::End --&gt;
-
-
-   </content></entry><entry><title>FLISoL 2011 Mar del Plata</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/flisol-2011"/><updated>2011-03-17T00:00:01Z</updated><published>2011-03-17T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/flisol-2011</id><content type="html">
-       
-
-&lt;!-- Hyde::Excerpt::Begin --&gt;
-
-&lt;p&gt;&lt;img alt=&quot;banner&quot; src=&quot;/media/img/flisol-2011.gif&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;FLISoL&amp;nbsp;2011&lt;/h2&gt;
-&lt;p&gt;El Festival Latinoamericano de Instalación de Software Libre (FLISoL) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y desde el 2008 se adoptó su realización el 4to Sábado de abril de cada año. En 2011 por única vez será el día 9 de&amp;nbsp;Abril. &lt;/p&gt;
-&lt;p&gt;Su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y&amp;nbsp;desarrollo. &lt;/p&gt;
-&lt;p&gt;A tal fin, las diversas comunidades locales de software libre (en cada país/ciudad/localidad), organizan simultáneamente eventos en los que se instala, de manera gratuita y totalmente legal, software libre en las computadoras que llevan los asistentes. Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en torno al Software Libre, en toda su gama de expresiones: artística, académica, empresarial y&amp;nbsp;social.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Este año&lt;/em&gt;, la comunidad de &lt;em&gt;gulBAC Mar del Plata&lt;/em&gt;, volverá a celebrar este evento en las instalaciones de &lt;em&gt;ADUM (Guido 3248)&lt;/em&gt;. Si no dispones del ultimo grito de la tecnología no desesperes, tenemos software para computadoras mas viejas también. Además si ya tenes Linux instalado y hay algo que no te funciona trae tu maquina y te ayudaremos a solucionar el&amp;nbsp;problema.&lt;/p&gt;
-&lt;h2&gt;Charlas y&amp;nbsp;debates&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Introducción al Software&amp;nbsp;Libre&lt;/li&gt;
-&lt;li&gt;Postres Balcarce S.A.: Migración a&amp;nbsp;S.L.&lt;/li&gt;
-&lt;li&gt;B.I.G. Trilogía de&amp;nbsp;diseño&lt;/li&gt;
-&lt;li&gt;Sistema de archivos&amp;nbsp;ZFS&lt;/li&gt;
-&lt;li&gt;Más charlas a&amp;nbsp;confirmar...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;¿A quién está&amp;nbsp;dirigido?&lt;/h2&gt;
-&lt;p&gt;El evento está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públcios, entusiastas y aun personas que no poseen mucho conocimiento&amp;nbsp;informático.&lt;/p&gt;
-&lt;h2&gt;¿Cuánto&amp;nbsp;cuesta?&lt;/h2&gt;
-&lt;p&gt;La asistencia al evento es totalmente libre y&amp;nbsp;gratuita.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Te&amp;nbsp;esperamos!&lt;/em&gt;&lt;/p&gt;
 &lt;!-- Hyde::Excerpt::End --&gt;
 
 
