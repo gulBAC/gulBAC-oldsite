@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-08-29T00:43:33Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-09-05T23:53:19Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -122,26 +122,78 @@ por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&
 &lt;p&gt;&lt;img alt=&quot;Banner&quot; src=&quot;/media/img/avatar-150.jpg&quot; /&gt; &lt;/p&gt;
 &lt;p&gt;El &lt;strong&gt;Software Freedom Day&lt;/strong&gt; (SFD) es una celebración global cuya meta es difundir los beneficios de usar &lt;strong&gt;Software Libre&lt;/strong&gt; en la educación, en el gobierno, en el hogar y en los&amp;nbsp;negocios.&lt;/p&gt;
 &lt;p&gt;En esta ocasión, el &lt;strong&gt;nodo Mar del Plata de gulBAC&lt;/strong&gt; y &lt;strong&gt;la Asociación Argentina de Usuarios de Internet (Internauta)&lt;/strong&gt; organizaremos una jornada de charlas y talleres para toda la&amp;nbsp;comunidad.&lt;/p&gt;
-&lt;h2&gt;¿Cuando?&lt;/h2&gt;
+&lt;h2&gt; ¿Cu&amp;aacute;ndo? &lt;/h2&gt;
+
 &lt;p&gt;El evento se realizar&amp;aacute; el &lt;strong&gt;S&amp;aacute;bado 15 de Septiembre de 14 hs a 19 hs&lt;/strong&gt;. &lt;/p&gt;
-&lt;h2&gt;¿Cu&amp;aacute;nto&amp;nbsp;sale?&lt;/h2&gt;
+&lt;h2&gt; ¿Cu&amp;aacute;nto&amp;nbsp;sale? &lt;/h2&gt;
+
 &lt;p&gt;¡La entrada es libre y&amp;nbsp;gratuita!&lt;/p&gt;
-&lt;h2&gt;Charlas&lt;/h2&gt;
-&lt;p&gt;¡Todavía estamos armando el cronograma pero preparate para seguir aprendiendo sobre &lt;strong&gt;Android&lt;/strong&gt;, &lt;strong&gt;T&amp;eacute;rminos y Condiciones&lt;/strong&gt;, &lt;strong&gt;Educaci&amp;oacute;n Libre&lt;/strong&gt;, &lt;strong&gt;Herramientas de monitoreo de red&lt;/strong&gt; y mucho&amp;nbsp;m&amp;aacute;s!&lt;/p&gt;
-&lt;h2&gt;¿A&amp;nbsp;d&amp;oacute;nde?&lt;/h2&gt;
-&lt;p&gt;Guido 3248&amp;nbsp;(A.D.U.M.)&lt;/p&gt;
-&lt;p&gt;Colectivos: 531, 532, 571 y&amp;nbsp;525.&lt;/p&gt;
+&lt;h2&gt; Charlas &lt;/h2&gt;
+
+&lt;table style=&quot;text-align:center;margin: 10px auto;&quot;&gt;
+    &lt;tr style=&quot;height:40px;background-color:#6DBE25;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;width:180px;&quot;&gt;&lt;b&gt;&lt;br&gt;Horario&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;width:210px;&quot;&gt;&lt;b&gt;&lt;br&gt;T&amp;iacute;tulo&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;width:180px;&quot;&gt;&lt;b&gt;&lt;br&gt;Charla&lt;/b&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;b&gt;&lt;br&gt;14:15 a 14:45&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;T&amp;eacute;rminos y Condiciones&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;Dar&amp;iacute;o Badagnani&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;b&gt;&lt;br&gt;15:00 a 15:30&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;line-height:13px;&quot;&gt;&lt;br&gt;Haciendo aplicaciones en Android&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+        &lt;td style=&quot;line-height:13px;&quot;&gt;&lt;br&gt;Gonzalo Benoffi&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;br&gt;&lt;b&gt;15:45 a 16:15&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;Educación y Software Libre&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;Sergio Puggioni&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:40px;background-color:#C5EDA1;line-height:13px;&quot;&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;b&gt;&lt;br&gt;16:15 a 16:45 - Merienda&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;b&gt;&lt;br&gt;16:45 a 17:15&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;line-height:13px;&quot;&gt;&lt;br&gt;Hacking Munin &amp;&amp; Nagios for Fun and Profit&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+        &lt;td style=&quot;line-height:13px;&quot;&gt;&lt;br&gt;Dererk&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;b&gt;&lt;br&gt;17:30 a 18:00&lt;/b&gt;&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;Desarrollo de aplicaciones cloud con Software Libre&lt;br&gt;&lt;br&gt;&lt;/td&gt;
+        &lt;td style=&quot;background-color:#ECECEC;&quot;&gt;&lt;br&gt;Gaspar Errobidart y Mario Lucchelli&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:35px;line-height:13px;&quot;&gt;
+        &lt;td style=&quot;background-color:#6DBE25;&quot;&gt;&lt;b&gt;&lt;br&gt;18:15 a 18:45&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;br&gt;Reprogramando Cráneos&lt;/td&gt;
+        &lt;td&gt;&lt;br&gt;Mart&amp;iacute;n Gregorio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr style=&quot;height:40px;background-color:#C5EDA1;line-height:13px;&quot;&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;br&gt;&lt;b&gt;18:45 a 19:00 - Sorteos&lt;/b&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;¡IMPORTANTE! Si ten&amp;eacute;s consultas t&amp;eacute;cnicas, vas contar con un espacio destinado a&amp;nbsp;solucionarlas.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt; ¿A&amp;nbsp;d&amp;oacute;nde? &lt;/h2&gt;
+
 &lt;div align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;425&quot; height=&quot;350&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; src=&quot;https://maps.google.com/maps/ms?msa=0&amp;amp;msid=211334770110359554191.0004c85ee23a41c3ef707&amp;amp;ie=UTF8&amp;amp;ll=-38.005175,-57.569975&amp;amp;spn=0,0&amp;amp;t=h&amp;amp;output=embed&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;Ver &lt;a href=&quot;https://maps.google.com/maps/ms?msa=0&amp;amp;msid=211334770110359554191.0004c85ee23a41c3ef707&amp;amp;ie=UTF8&amp;amp;ll=-38.005175,-57.569975&amp;amp;spn=0,0&amp;amp;t=h&amp;amp;source=embed&quot; style=&quot;color:#0000FF;text-align:left&quot;&gt;SFD 2012 en Mar del Plata&lt;/a&gt; en un mapa ampliado&lt;/small&gt;
+&lt;iframe src=&quot;http://mybus.com.ar/apiFrames/destinoSimple.php?lugar=Software%20Fredom%20Day&quot; style=&quot;overflow: hidden; border: medium none; min-height: 400px; min-width: 400px;&quot; id=&quot;ifrm&quot; height=&quot;400px&quot; scrolling=&quot;no&quot; width=&quot;480px&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;¡Compartilo!&lt;/h2&gt;
+&lt;h2&gt; ¡Compartilo! &lt;/h2&gt;
+
 &lt;p&gt;Ayudanos a difundir lo que hacemos compartiendo &amp;eacute;sta p&amp;aacute;gina con tus&amp;nbsp;amigos:&lt;/p&gt;
 &lt;div class=&quot;shr_class shareaholic-show-on-load&quot; style=&quot;width:420px;height:auto;margin: 10px auto;&quot;&gt;
 
 &lt;/div&gt;
 
-&lt;h2&gt;¿Us&amp;aacute;s redes&amp;nbsp;sociales?&lt;/h2&gt;
+&lt;h2&gt; ¿Us&amp;aacute;s redes&amp;nbsp;sociales? &lt;/h2&gt;
+
 &lt;p&gt;¡Pod&amp;eacute;s enterarte lo que se viene antes que nadie visitando nuestros&amp;nbsp;perfiles!&lt;/p&gt;
 &lt;div style=&quot;width:518px;height:auto;margin: 10px auto;&quot;&gt;
 &lt;div style=&quot;float:right;&quot;&gt;
