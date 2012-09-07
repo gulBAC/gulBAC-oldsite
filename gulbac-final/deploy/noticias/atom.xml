@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-09-05T23:53:19Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>gulBAC noticias</title><link href="http://www.gulbac.org.ar/noticias/atom.xml" rel="self"/><link href="http://www.gulbac.org.ar"/><updated>2012-09-06T22:12:18Z</updated><id>http://www.gulbac.org.ar</id><entry><title>Implementamos un gestor de tareas</title><author><name>Comtom</name></author><link href="http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas"/><updated>2011-12-26T00:00:01Z</updated><published>2011-12-26T00:00:01Z</published><id>http://www.gulbac.org.ar/noticias/2011/gestor-de-tareas</id><content type="html">
        
 
 &lt;!-- Hyde::Excerpt::Begin --&gt;
@@ -182,7 +182,7 @@ por ello agradecemos enormemente a todos los que allí&amp;nbsp;trabajan.&lt;/p&
 &lt;h2&gt; ¿A&amp;nbsp;d&amp;oacute;nde? &lt;/h2&gt;
 
 &lt;div align=&quot;center&quot;&gt;
-&lt;iframe src=&quot;http://mybus.com.ar/apiFrames/destinoSimple.php?lugar=Software%20Fredom%20Day&quot; style=&quot;overflow: hidden; border: medium none; min-height: 400px; min-width: 400px;&quot; id=&quot;ifrm&quot; height=&quot;400px&quot; scrolling=&quot;no&quot; width=&quot;480px&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://mybus.com.ar/apiFrames/destinoSimple.php?lugar=Software%20Freedom%20Day&quot; style=&quot;overflow: hidden; border: medium none; min-height: 400px; min-width: 400px;&quot; id=&quot;ifrm&quot; height=&quot;400px&quot; scrolling=&quot;no&quot; width=&quot;480px&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;h2&gt; ¡Compartilo! &lt;/h2&gt;
