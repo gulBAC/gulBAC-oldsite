@@ -1,4 +1,4 @@
-/*! Copyright (c) 2010 Brandon Aaron (http://brandonaaron.net)
+/* Copyright (c) 2010 Brandon Aaron (http://brandonaaron.net)
 * Licensed under the MIT License (LICENSE.txt).
 *
 * Thanks to: http://adomas.org/javascript-mouse-wheel/ for some pointers.
@@ -9,6 +9,4 @@
 *
 * Requires: 1.2.2+
 */
-
-(function(d){function g(a){var b=a||window.event,i=[].slice.call(arguments,1),c=0,h=0,e=0;a=d.event.fix(b);a.type="mousewheel";if(a.wheelDelta)c=a.wheelDelta/120;if(a.detail)c=-a.detail/3;e=c;if(b.axis!==undefined&&b.axis===b.HORIZONTAL_AXIS){e=0;h=-1*c}if(b.wheelDeltaY!==undefined)e=b.wheelDeltaY/120;if(b.wheelDeltaX!==undefined)h=-1*b.wheelDeltaX/120;i.unshift(a,c,h,e);return d.event.handle.apply(this,i)}var f=["DOMMouseScroll","mousewheel"];d.event.special.mousewheel={setup:function(){if(this.addEventListener)for(var a=
-f.length;a;)this.addEventListener(f[--a],g,false);else this.onmousewheel=g},teardown:function(){if(this.removeEventListener)for(var a=f.length;a;)this.removeEventListener(f[--a],g,false);else this.onmousewheel=null}};d.fn.extend({mousewheel:function(a){return a?this.bind("mousewheel",a):this.trigger("mousewheel")},unmousewheel:function(a){return this.unbind("mousewheel",a)}})})(jQuery);
+(function(c){function a(f){var d=f||window.event,g=[].slice.call(arguments,1),l=0,j=0,k=0;f=c.event.fix(d);f.type="mousewheel";if(f.wheelDelta){l=f.wheelDelta/120}if(f.detail){l=-f.detail/3}k=l;if(d.axis!==undefined&&d.axis===d.HORIZONTAL_AXIS){k=0;j=-1*l}if(d.wheelDeltaY!==undefined){k=d.wheelDeltaY/120}if(d.wheelDeltaX!==undefined){j=-1*d.wheelDeltaX/120}g.unshift(f,l,j,k);return c.event.handle.apply(this,g)}var b=["DOMMouseScroll","mousewheel"];c.event.special.mousewheel={setup:function(){if(this.addEventListener){for(var d=b.length;d;){this.addEventListener(b[--d],a,false)}}else{this.onmousewheel=a}},teardown:function(){if(this.removeEventListener){for(var d=b.length;d;){this.removeEventListener(b[--d],a,false)}}else{this.onmousewheel=null}}};c.fn.extend({mousewheel:function(d){return d?this.bind("mousewheel",d):this.trigger("mousewheel")},unmousewheel:function(d){return this.unbind("mousewheel",d)}})})(jQuery);
