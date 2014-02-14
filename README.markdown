@@ -1,6 +1,8 @@
 # gulBAC - sitio web 3.0
 
-Utilizamos Hyde 0.4. Hyde es un generador de sitios web que utiliza los templates de django.
+## Deprecado. Cambiamos a Wordpress, pero mantendremos este repo activo para futura referencia.
+
+Utilizabamos Hyde 0.4. Hyde es un generador de sitios web que utiliza los templates de django.
 Mas info [acá][1] y [acá][2].
 
 ## Nota
